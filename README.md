@@ -9,4 +9,5 @@ my misticks and experiance is:-
     image place lo me image name antea docker lo push chesina name evandi
    and also added service file and ingress file onec your added ingress file 3 types of servic vuntai 1 clusterip 2 nordport 3 load balenecr
    most of time using in 3 load balencer and only your using or just normal deplyment use 1 and 2 servics 2 nordport better small operations becues nordport is exterial antea
-   bayata ki show chusinthundhi 1 clusterip not show out side onely inside  
+   bayata ki show chusinthundhi 1 clusterip not show out side onely inside
+4. next push the github 
